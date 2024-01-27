@@ -17,7 +17,7 @@ main()
 	
 	for(i=1; i<=inche; i++)
 	{
-		if(inche==12)
+		if(inche>=12)
 		{
 			inche-=12;
 			feet++;	
